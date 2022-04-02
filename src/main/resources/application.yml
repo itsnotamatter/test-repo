@@ -1,0 +1,7 @@
+# serivce name
+spring:
+  application:
+    name: git-service
+
+server:
+  port: 8072
