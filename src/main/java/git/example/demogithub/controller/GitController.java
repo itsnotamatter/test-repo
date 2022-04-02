@@ -10,7 +10,7 @@ public class GitController {
 
     @GetMapping("/user")
     public String user() {
-        return "User";
+        return "User";//comment test
     }
 
     @GetMapping("/admin")
